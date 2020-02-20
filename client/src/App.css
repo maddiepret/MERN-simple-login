@@ -1,0 +1,45 @@
+.list {
+    color: #fff;
+    width: 300px;
+    margin: 20px auto;
+    height: 50px;
+    width: 300px;
+    background-color: #bf07ac;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.add {
+    border-radius: 20px;
+    border: 1px solid lightcoral;
+    background-color: lightcoral;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+
+.add:active {
+    transform: scale(0.95);
+}
+
+body {
+    background: linear-gradient(to right, #FF4B2B, #FF416C);
+}
+
+h4 {
+    font-weight: bold;
+    margin: 0;
+    padding: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: cornsilk;
+    text-align: center;
+}
+
+Modal {
+    background: linear-gradient(to right, #FF4B2B, #FF416C);
+}
